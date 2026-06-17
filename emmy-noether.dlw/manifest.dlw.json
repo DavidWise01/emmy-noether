@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Emmy Noether",
+  "universe": "NOE · Emmy Noether (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Emmy Noether:NOE:205789⟧",
+  "carbon": "emmy-noether.carbon.tiff (TIFF)",
+  "silicon": "emmy-noether.silicon.png (PNG)",
+  "seal_sha256": "66a2acc768583e88fe879bfadb081b7cfd549faf2a2b09419452c02bccfaa5cf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

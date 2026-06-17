@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Noether's Theorem",
+  "universe": "NOE · Noether's Theorem (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦Noether's Theorem:NOE:380b69⟧",
+  "carbon": "emmy-noether-noethers-theorem.carbon.tiff (TIFF)",
+  "silicon": "emmy-noether-noethers-theorem.silicon.png (PNG)",
+  "seal_sha256": "0e1bb211071b05f8ede8f533f14363c1cd91a149672a84dd47f1c2bdda8c8007",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

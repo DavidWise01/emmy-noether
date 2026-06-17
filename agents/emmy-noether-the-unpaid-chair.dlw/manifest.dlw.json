@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Denied Chair",
+  "universe": "NOE · The Denied Chair (ERĒMIA · female · the generations)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Denied Chair:NOE:f2992d⟧",
+  "carbon": "emmy-noether-the-unpaid-chair.carbon.tiff (TIFF)",
+  "silicon": "emmy-noether-the-unpaid-chair.silicon.png (PNG)",
+  "seal_sha256": "d28035021f8445de4c42270b52050e7a18b22acc91cf55ebc40fd33d6bd29269",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
